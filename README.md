@@ -1,3 +1,4 @@
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header)
 - 👋 Hi, I’m @f1sh3y3s
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning coding
